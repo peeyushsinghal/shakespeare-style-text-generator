@@ -2,6 +2,7 @@
 
 This project implements a text generation application using a GPT model. The application allows users to input a prompt and generate multiple variations of text based on that prompt.
 This is available on HuggingFace Spaces also : https://huggingface.co/spaces/peeyushsinghal/GPT2_Demo 
+![App Screenshot](Gradio_SS.png)
 
 ## Features
 
