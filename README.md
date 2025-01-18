@@ -55,6 +55,7 @@ python src/app.py
 - Token count display
 
 ## Model Training Logs 
+```
 Using device: mps
 
 Model Architecture:
@@ -259,4 +260,4 @@ GPT(
   )
   (lm_head): Linear(in_features=768, out_features=50257, bias=False)
 )
-
+```
